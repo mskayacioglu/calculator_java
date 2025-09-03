@@ -3,6 +3,12 @@
 A simple **Object-Oriented Programming (OOP)** calculator built in **Java** with an **AWT-based GUI**.  
 This project demonstrates event-driven programming, GUI design with `GridBagLayout`, and core OOP concepts such as encapsulation, abstraction, and polymorphism.  
 
+<p align="center">
+  <img src="calculator.png" width="300"/>
+  <img src="calculator_linux.png" width="300"/>
+</p>
+
+
 ### macOS
 ![Calculator Screenshot](calculator.png)
 
