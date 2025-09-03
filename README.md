@@ -4,7 +4,7 @@ A simple **Object-Oriented Programming (OOP)** calculator built in **Java** with
 This project demonstrates event-driven programming, GUI design with `GridBagLayout`, and core OOP concepts such as encapsulation, abstraction, and polymorphism.  
 
 <p align="center">
-  <img src="calcultor.png" alt="macOS" width="400" height="400">
+  <img src="calculator.png" alt="macOS" width="400" height="400">
   &nbsp;&nbsp;&nbsp;
   <img src="calculator_linux.png" alt="Linux" width="250" height="250">
 </p>
